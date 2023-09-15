@@ -1,0 +1,19 @@
+ .home_row{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #e2e6e7;
+    /* justify-content: space-evenly;
+    background-color: #e2e6e7; */
+    /* margin-left: 5px;
+    margin-right: 5px; */
+
+
+} 
+
+/* .shopping_section{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1500px;
+} */

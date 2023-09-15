@@ -1,0 +1,30 @@
+  .home_poster {
+background-image: url("hero_image.jpg");
+background-size: cover;
+/* z-index: -1;
+margin-bottom: -150px;  
+ mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));  */
+ mask-image: image(url("hero_image.jpg"),transparent); 
+height: 450px; 
+display: flex;
+justify-content: center;
+align-items: flex-end;
+  }  
+.home_message{
+  background-color: white;
+  color: black;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+width: 80%;
+font-size: 0.85rem;
+margin-bottom: 100px;
+}
+
+.home_message a{
+  color: #007185;
+}
+.home_message p{
+display: flex;
+}

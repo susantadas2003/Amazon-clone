@@ -1,0 +1,69 @@
+.footerPanel1 {
+  background-color: #37475a;
+  color: white;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.8rem;
+}
+.footer {
+  margin-top: 5px;
+}
+.footerPanel2 {
+  background-color: #222f3d;
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: space-evenly;
+}
+ul {
+  margin-top: 20px;
+}
+ul a {
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 10px;
+  color: #dddddd;
+}
+.footerPanel3 {
+  background-color: #222f3d;
+  color: white;
+  border-top: 0.5px solid white;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  background-image: url("amazon_logo.png");
+  background-size: cover;
+  height: 50px;
+  width: 100px;
+}
+.footerPanel4{
+    background-color: #0f1111;
+    color: white;
+    height: 80px;
+    font-size: 0.8rem;
+    text-align: center;
+
+}
+.pages{
+  padding-top: 10px;
+}
+.copyright{
+  padding-top: 3px;
+
+}
+
+.footerPanel4 a{
+  text-decoration: none;
+  color: white;
+  padding: 8px;
+ 
+}
+.footerPanel4 a:hover{
+  text-decoration: underline;
+ 
+}

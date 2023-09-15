@@ -1,0 +1,31 @@
+.headerPanel{
+    height: 40px;
+    background-color: #222f3d;
+    display : flex;
+    color: white;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+
+.panel-ops  {
+    width:70%;
+    display: flex;
+    margin-left: none;
+}
+
+.panel-ops span{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.border{
+    border: 1.5px solid transparent;
+  }
+  .border:hover{
+    border: 1.5px solid white;
+  }
+
+  .All{
+    display: flex;
+    margin-left: none;
+  }
